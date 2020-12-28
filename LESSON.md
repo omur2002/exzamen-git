@@ -13,3 +13,5 @@ Changes not staged for commit:
 	modified:   LESSON.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[main 2ce8c0e] HELLO
+ 1 file changed, 13 insertions(+)
